@@ -6,16 +6,16 @@ Welcome to my learning repository! This project serves as a digital portfolio sh
 
 ### 🛠️ PyQGIS Automation
 * **Status:** 🛠️ Active Self-Learning
-* **Focus:** Automating repetitive GIS workflows, custom processing scripts, and batch map production through independent study and practice.
-* **Goal:** Transforming manual, time-consuming tasks into efficient, automated scripts using the PyQGIS API.
+* **Focus:** Automating vector data workflows, geometry extraction, and layer management in QGIS using Python scripting.
+* **Goal:** Automating repetitive GIS tasks, attribute filtering, and spatial data retrieval through independent study and hands-on PyQGIS practice.
 
 ---
 
 ## ✅ Completed Upskilling
 
-* **QGIS:** Successfully upskilled through independent self-learning.
-* **Spatial SQL:** Mastered **PostgreSQL & PostGIS** by writing advanced spatial SQL queries and designing efficient database workflows.
-* **Core Python:** Mastered core programming fundamentals, including data structures, logical control flow, list comprehensions, and functions for GIS scripting.
+* QGIS: Successfully upskilled through independent self-learning.
+* Spatial SQL: Gained practical experience in PostgreSQL & PostGIS by writing spatial SQL queries for vector data filtering and basic database workflows.
+* Core Python: Built a strong foundation in Python fundamentals, including data structures, control flow, functions, and list operations for GIS scripting.
 
 ## 🚀 Future Roadmap
 
