@@ -22,3 +22,13 @@ Welcome to my learning repository! This project serves as a digital portfolio sh
 * **ETL & Data Pipelines:** Mastering **FME** for complex spatial data transformation and integration.
 * **Advanced Analytics:** Exploring **GeoAI** for spatial machine learning and automated feature extraction.
 * **GIS Platforms & Modeling:** Expanding expertise in **ArcGIS** and **QGIS Model Designer** to build end-to-end GIS solutions.
+
+### 📅 PyQGIS Learning Progress & Concepts Covered
+
+Here is the structured breakdown of the PyQGIS concepts practiced across each day:
+
+| Day | Level | Topics Covered | Key Concepts Applied |
+| :--- | :--- | :--- | :--- |
+| **Day 1** | `Basic` | **Layer Access & Attribute Filtering** | `QgsProject.instance()`, `mapLayersByName()`, `.getFeatures()`, list operations, and attribute filtering |
+| **Day 2** | `Intermediate` | **Geometry Extraction & Coordinates** | Spatial geometry handling (`feature.geometry()`), `.isEmpty()` check, `.asPoint()`, and GPS Coordinates (`.x()`, `.y()`) |
+| **Day 3** | `Intermediate` | **Layer Metadata & Attribute Inspection** | `QgsWkbTypes` geometry identification, Bounding Box/Extent (`.extent()`), field mapping, `.uniqueValues()`, and sample parsing with `enumerate()` |
