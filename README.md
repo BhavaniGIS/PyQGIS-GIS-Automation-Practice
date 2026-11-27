@@ -4,10 +4,10 @@ Welcome to my learning repository! This project serves as a digital portfolio sh
 
 ## 🚧 Work in Progress (Self-Learning)
 
-### 🛠️ PyQGIS Automation
-* **Status:** 🛠️ Active Self-Learning
-* **Focus:** Automating vector data workflows, geometry extraction, and layer management in QGIS using Python scripting.
-* **Goal:** Automating repetitive GIS tasks, attribute filtering, and spatial data retrieval through independent study and hands-on PyQGIS practice.
+### 🛠️ PyQGIS Practice
+* **Status:** 🛠️ Active Self-Learning (in progress)
+* **Focus:** Learning PyQGIS scripting for vector data workflows: layer management, attribute filtering, and feature querying in QGIS.
+* **Goal:** Building towards automation of repetitive GIS tasks (batch processing, export, reporting) through hands-on practice. Automation scripts will be added in upcoming days.
 
 ---
 
