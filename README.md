@@ -7,7 +7,8 @@ Welcome to my learning repository! This project serves as a digital portfolio sh
 ### 🛠️ PyQGIS Practice
 * **Status:** 🛠️ Active Self-Learning (in progress)
 * **Focus:** Learning PyQGIS scripting for vector data workflows: layer management, attribute filtering, and feature querying in QGIS.
-* **Goal:** Building towards automation of repetitive GIS tasks (batch processing, export, reporting) through hands-on practice. Automation scripts will be added in upcoming days.
+* **Goal:** Building towards automation of repetitive GIS tasks (batch processing, export, reporting) through hands-on practice.  Automation scripts will be added in upcoming days.
+  
 
 ---
 
